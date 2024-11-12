@@ -37,18 +37,23 @@
 
 ## 🚀 Projects
 
-### [Gym Reservation Bot](https://github.com/username/gym-reservation-bot)
-*Python, Selenium, Google Cloud Console*  
-- Developed an automatic bot to register timeslots at the school gym using Python and Google Cloud.
-- Used Selenium to interact with web elements and scheduled the bot on Google Cloud using Cron.
+### [Insights in Hospitality Domain](https://github.com/SarthakSingh8595/Hospitality_Domain)
+*Power BI, SQL*  
+- Developed an analysis of hotel revenue insights and occupancy trends.
+- Created visualizations to show booking patterns across seasons and customer segments.
+- Built a Power BI dashboard to provide quick, actionable insights for hotel management.
 
-### [Ticket Price Calculator App](https://github.com/username/ticket-price-calculator-app)
-*Java, Android Studio*  
-- Built an Android app to calculate ticket prices for NYC museums, processing user input and providing a UI for seamless interactions.
+### [Product Sales Insights](https://github.com/SarthakSingh8595/Product_Sales)
+*Power BI, SQL*  
+- Analyzed sales data across different regions to identify top-selling products and peak seasons.
+- Generated visual reports on revenue trends and market performance.
+- Designed an interactive Power BI dashboard to assist stakeholders in strategic planning.
 
-### [Transaction Management GUI](https://github.com/username/transaction-management-gui)
-*Java, Eclipse, JavaFX*  
-- Designed a banking transaction system using JavaFX, supporting actions like deposit, withdrawal, and account management.
+### [HR Domain Insights](https://github.com/SarthakSingh8595/HR_domain)
+*Power BI, SQL*  
+- Provided an in-depth analysis of employee attendance, leave patterns, and work preferences.
+- Identified trends in employee engagement and productivity.
+- Designed a Power BI dashboard to streamline HR decision-making.
 
 ---
 
